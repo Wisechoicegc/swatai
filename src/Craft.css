@@ -1,0 +1,31 @@
+.craft-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #05060f;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.craft-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: calc(100vh - 80px); /* Adjust the height based on header height */
+  padding-top: 20px; /* Space below the header */
+  box-sizing: border-box;
+}
+
+.sketchfab-embed-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sketchfab-iframe {
+  width: 100%; /* Make it occupy the full width */
+  height: 75vh; /* Set a height that maintains good proportions */
+  border: none;
+}
