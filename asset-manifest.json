@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/swati/static/css/main.31fe36da.css",
+    "main.js": "/swati/static/js/main.21f52d61.js",
+    "static/js/208.aef105d0.chunk.js": "/swati/static/js/208.aef105d0.chunk.js",
+    "static/js/293.53c9a59f.chunk.js": "/swati/static/js/293.53c9a59f.chunk.js",
+    "static/js/917.2c6f2fac.chunk.js": "/swati/static/js/917.2c6f2fac.chunk.js",
+    "static/js/516.2d7f3775.chunk.js": "/swati/static/js/516.2d7f3775.chunk.js",
+    "static/js/519.739a47fe.chunk.js": "/swati/static/js/519.739a47fe.chunk.js",
+    "static/js/946.5fa6fe48.chunk.js": "/swati/static/js/946.5fa6fe48.chunk.js",
+    "static/js/160.bd3775d4.chunk.js": "/swati/static/js/160.bd3775d4.chunk.js",
+    "static/js/23.a54057f7.chunk.js": "/swati/static/js/23.a54057f7.chunk.js",
+    "static/js/453.195b869a.chunk.js": "/swati/static/js/453.195b869a.chunk.js",
+    "index.html": "/swati/index.html",
+    "main.31fe36da.css.map": "/swati/static/css/main.31fe36da.css.map",
+    "main.21f52d61.js.map": "/swati/static/js/main.21f52d61.js.map",
+    "208.aef105d0.chunk.js.map": "/swati/static/js/208.aef105d0.chunk.js.map",
+    "293.53c9a59f.chunk.js.map": "/swati/static/js/293.53c9a59f.chunk.js.map",
+    "917.2c6f2fac.chunk.js.map": "/swati/static/js/917.2c6f2fac.chunk.js.map",
+    "516.2d7f3775.chunk.js.map": "/swati/static/js/516.2d7f3775.chunk.js.map",
+    "519.739a47fe.chunk.js.map": "/swati/static/js/519.739a47fe.chunk.js.map",
+    "946.5fa6fe48.chunk.js.map": "/swati/static/js/946.5fa6fe48.chunk.js.map",
+    "160.bd3775d4.chunk.js.map": "/swati/static/js/160.bd3775d4.chunk.js.map",
+    "23.a54057f7.chunk.js.map": "/swati/static/js/23.a54057f7.chunk.js.map",
+    "453.195b869a.chunk.js.map": "/swati/static/js/453.195b869a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31fe36da.css",
+    "static/js/main.21f52d61.js"
+  ]
+}
